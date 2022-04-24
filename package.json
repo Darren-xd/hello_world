@@ -1,6 +1,7 @@
 {
   "name": "hello_world",
   "version": "0.1.0",
+  "homepage": "https://darren-xd.github.io/hello_world"
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
